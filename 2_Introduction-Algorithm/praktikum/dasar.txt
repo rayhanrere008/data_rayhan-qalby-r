@@ -2,4 +2,4 @@ Dasar Algoritma :
 
 - Sequential
 - Branching
-- Sorting
+- Looping
