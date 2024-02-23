@@ -1,0 +1,4 @@
+Syarat menjadi seorang Data Engineer :
+
+- Menguasai Bahasa Pemrograman (Python)
+- Menguasai database (SQL)
