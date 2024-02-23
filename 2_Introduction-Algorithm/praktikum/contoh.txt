@@ -2,4 +2,8 @@ Contoh Algoritma dalam Kehidupan Sehari hari :
 
 1. Membuat layang-layang
 2. Memasak Indomie goreng
+<<<<<<< HEAD
 3. Menyalakan mobil
+=======
+3. Mencuci motor
+>>>>>>> Feature2
